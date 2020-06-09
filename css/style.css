@@ -1,0 +1,20 @@
+#note-input-box {
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 40%;
+   height: 100%;
+}
+
+#note-list-box {
+   position: fixed;
+   top: 0;
+   right: 0;
+   width: 60%;
+   height: 100%;
+   overflow-y: scroll;
+}
+
+.close {
+   font-size: 1.25rem;
+}
